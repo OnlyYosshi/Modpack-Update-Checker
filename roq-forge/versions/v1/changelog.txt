@@ -1,0 +1,18 @@
+RoQ Forge - V1 [Calidad de Vida]
+
+Cambios
+	- Se actualizaron 40 mods
+	- Se elimino [Dungeon Crawl](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl) (Tiene bug con la generacion)
+	- Se elimino [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) (Ya no es necesario)
+	- Se elimino [Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/dynamic-lights) (Remplazado)
+	- Se elimino [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium) (Remplazado)
+	- Se agrego [AAA Particles](https://www.curseforge.com/minecraft/mc-mods/aaa-particles) (Bychloe_koopa)
+	- Se agrego [AllTheLeaks](https://www.curseforge.com/minecraft/mc-mods/alltheleaks) (By Uncandango)
+	- Se agrego [BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3) (By cominixo)
+	- Se agrego [Overflowing Bars](https://www.curseforge.com/minecraft/mc-mods/overflowing-bars) (By Fuzs)
+	- Se agrego [Paxi](https://www.curseforge.com/minecraft/mc-mods/paxi) (By YUNGNICKYOUNG)
+	- Se agrego [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) (By Vazkii)
+	- Se agrego [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered) (By henkelmax)
+	- Se agrego [Tips](https://www.curseforge.com/minecraft/mc-mods/tips) (By DarkhaxDev)
+	- Se agrego [Visuality: Reforged](https://www.curseforge.com/minecraft/mc-mods/visuality-reforged) (ByDragonsPlus)
+	y muchos mas...
