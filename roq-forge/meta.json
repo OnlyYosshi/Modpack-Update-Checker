@@ -5,6 +5,7 @@
     {
       "id": "v1",
       "releasedAt": 1754352000,
+      "updateType": "minor_breaking"
     }
   ]
 }
