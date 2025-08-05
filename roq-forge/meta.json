@@ -4,8 +4,12 @@
   "versions": [
     {
       "id": "v1",
-      "releasedAt": 1754380800000
+      "releasedAt": 1754380800000,
       "updateType": "minor_breaking"
+    },
+    {
+      "id": "v2",
+      "releasedAt": 1754985600000
     }
   ]
 }
