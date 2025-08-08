@@ -8,6 +8,11 @@
       "updateType": "minor_breaking"
     },
     {
+      "id": "v1.5",
+      "releasedAt": 1754636400000,
+      "updateType": "minor_breaking"
+    },
+    {
       "id": "v2",
       "releasedAt": 1754985600000
     }
