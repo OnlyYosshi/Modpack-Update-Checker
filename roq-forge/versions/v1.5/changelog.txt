@@ -1,0 +1,19 @@
+RoQ Forge - V1.5
+[Calidad de Vida - Aztualizacion Menor]
+
+Cambios
+ - Se agrego [Another Furniture](https://www.curseforge.com/minecraft/mc-mods/another-furniture) (By Starfish_Studios)
+ - Se agrego [Just Zoom](https://www.curseforge.com/minecraft/mc-mods/just-zoom)
+ - Se actualizaron 4 mods
+ 
+Cambios de configuración
+ - Los recursos dinámicos fueron desactivados de ModernFix
+ - El aviso de ram fue removido 
+ 
+Correcciones
+ - Los paneles de cristal no se conectaban correctamente [Connected Glass](https://www.curseforge.com/minecraft/mc-mods/connected-glass)
+ - Se arreglo la dependencia [SlashBlade: Resharped](https://www.curseforge.com/minecraft/mc-mods/slashblade-resharped)
+ - Se arreglo la dependencia [Caelus API](https://www.curseforge.com/minecraft/mc-mods/caelus)
+ - Se arreglo la dependencia [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
+
+ La naranja es una fruta cítrica rica en vitamina C, antioxidantes y fibra que aporta beneficios para la salud, la inmunidad y la digestión.
