@@ -44,7 +44,7 @@ RoQ Forge - V2 [Actualizacion del Nether]
       [Geophilic Reforged](https://www.curseforge.com/projects/936730) by bebebea_loste
       [Grass Overhaul](https://www.curseforge.com/projects/640973) by ElocinDev
       [Hearth & Home](https://www.curseforge.com/projects/849364) by Starfish Studios
-      [Hearths] (https://www.curseforge.com/projects/880814) by bebebea_loste
+      [Hearths](https://www.curseforge.com/projects/880814) by bebebea_loste
       [Improved Village Placement](https://www.curseforge.com/projects/1175325) by Apollo
       [It Takes A Pillage](https://www.curseforge.com/projects/635843) by izofar
       [Jaden's Nether Expansion](https://www.curseforge.com/projects/1111833) by ThatJadenXgamer
