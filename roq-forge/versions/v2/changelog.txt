@@ -1,2 +1,94 @@
-RoQ Forge - V2 [Nether]
-Proximamente...
+RoQ Forge - V2 [Actualizacion del Nether]
+
+⭐ Cambios:
+
+ - Se actualizaron 4 mods
+ - Se elimino Leviathan's Peru Blessings (https://www.curseforge.com/minecraft/mc-mods/cerru) by Leviathan1500D
+ - Se añadieron los siguientes mods:
+      AdoraBuild: Structures (https://www.curseforge.com/projects/883352) by Vlad Hatylo, Kate Hatylo
+      Advanced Netherite (https://www.curseforge.com/projects/495336) by Autovw
+      Alex's Caves (https://www.curseforge.com/projects/924854) by Alexthe668, Noonyeyz
+      Alex's Delight (https://www.curseforge.com/projects/556448) by NCP Bails
+      Amendments (https://www.curseforge.com/projects/896746) by MehVahdJukaar
+      Athena (https://www.curseforge.com/projects/841890) by ThatGravyBoat
+      BCLib (https://www.curseforge.com/projects/495191) by Quiqueck, paulevs, Bulldog83
+      Better Combat (https://www.curseforge.com/projects/639842) by Daedelus
+      Better End (https://www.curseforge.com/projects/413596) by Quiqueck (code), paulevs (code & art), Bulldog83 (code & art), Edos (building), Yuki (art), Seaward (art), Firel (music)
+      Better Nether (https://www.curseforge.com/projects/311377) by quiqueck, paulevs (original author)
+      Blossom Blade (https://www.curseforge.com/projects/920268) by joshieman
+      Boatload (https://www.curseforge.com/projects/337396) by Team Abnormals
+      Bountiful (https://www.curseforge.com/projects/309516) by Ejektaflex
+      Bygone Nether (https://www.curseforge.com/projects/576124) by izofar
+      Cerulean (https://www.curseforge.com/projects/1204890) by Toni, Mephodio
+      Chefs Delight (https://www.curseforge.com/projects/832983) by Redstone Games
+      Chipped (https://www.curseforge.com/projects/456956) by Alex Nijjar, Grimbop, Kekie6, ThatGravyBoat
+      Climate Rivers (https://www.curseforge.com/projects/1255421) by Fuzs
+      Configured (https://www.curseforge.com/projects/457570) by MrCrayfish
+      Crabber's Delight (https://www.curseforge.com/projects/892827) by Alabaster Leking
+      Cristel Lib (https://www.curseforge.com/projects/856996) by Cristelknight999
+      Cut Through (https://www.curseforge.com/projects/969423) by Fuzs
+      Deeper and Darker (https://www.curseforge.com/projects/659011) by Kyanite Team
+      Delightful (https://www.curseforge.com/projects/637529) by brnbrd
+      Dungeons and Taverns (https://www.curseforge.com/projects/853794) by NovaWostra, Walls
+      Eldritch End (https://www.curseforge.com/projects/877553) by ElocinDev
+      Elysium (https://www.curseforge.com/projects/1158628) by ThatJadenXgamer
+      Ender's Delight (https://www.curseforge.com/projects/827163) by Axedgaming
+      Explorations+ (https://www.curseforge.com/projects/550247) by Buecher_wurm
+      Formations (https://www.curseforge.com/projects/915115) by SuperMartijn642
+      Formations Nether (https://www.curseforge.com/projects/918840) by SuperMartijn642
+      Formations Overworld (https://www.curseforge.com/projects/915324) by SuperMartijn642
+      Friends&Foes (https://www.curseforge.com/projects/602059) by Faboslav
+      Galosphere (https://www.curseforge.com/projects/631098) by Orcinus
+      Gardens of the Dead (https://www.curseforge.com/projects/683174) by ochotonida
+      Geophilic (https://www.curseforge.com/projects/711216) by bebebea_loste
+      Geophilic Reforged (https://www.curseforge.com/projects/936730) by bebebea_loste
+      Grass Overhaul (https://www.curseforge.com/projects/640973) by ElocinDev
+      Hearth & Home (https://www.curseforge.com/projects/849364) by Starfish Studios
+      Hearths (https://www.curseforge.com/projects/880814) by bebebea_loste
+      Improved Village Placement (https://www.curseforge.com/projects/1175325) by Apollo
+      It Takes A Pillage (https://www.curseforge.com/projects/635843) by izofar
+      Jaden's Nether Expansion (https://www.curseforge.com/projects/1111833) by ThatJadenXgamer
+      Kambrik (https://www.curseforge.com/projects/455585) by Me!
+      KleeSlabs (https://www.curseforge.com/projects/241895) by BlayTheNinth
+      Longer Chat History (https://www.curseforge.com/projects/913234) by Golem
+      Moog's End Structures (https://www.curseforge.com/projects/892382) by FinnDog
+      Moog's Nether Structures (https://www.curseforge.com/projects/967466) by FinnDog
+      Moog's Voyager Structures (https://www.curseforge.com/projects/656977) by FinnDog
+      My Nether's Delight (https://www.curseforge.com/projects/1003673) by SoyTutta
+      Nether Chested (https://www.curseforge.com/projects/857971) by Fuzs
+      Ocean's Delight (https://www.curseforge.com/projects/841262) by Scouter456
+      Reintegrated Chipped (https://www.curseforge.com/projects/1205717) by Apollo
+      Repurposed Structures (https://www.curseforge.com/projects/368293) by TelepathicGrunt
+      RevampedWolf (https://www.curseforge.com/projects/399945) by bagu_chan
+      Shield Expansion (https://www.curseforge.com/projects/583318) by Infernal Studios
+      Simple Voice Chat (https://www.curseforge.com/projects/416089) by Max Henkel
+      Sophisticated Backpacks (https://www.curseforge.com/projects/422301) by P3pp3rF1y, Ridanisaurus
+      Stalwart Dungeons (https://www.curseforge.com/projects/474817) by Furti_Two, Zezer_123
+      Stoneworks (https://www.curseforge.com/projects/852663) by Fuzs
+      Structory (https://www.curseforge.com/projects/636540) by Stardust Labs
+      Structory: Towers (https://www.curseforge.com/projects/783522) by Stardust Labs
+      Structure Gel API (https://www.curseforge.com/projects/378802) by Silver_David, KingPhygieBoo, Jonathing
+      SuperMartijn642's Config Library (https://www.curseforge.com/projects/438332) by SuperMartijn642
+      Supplementaries (https://www.curseforge.com/projects/412082) by MehVahdJukaar, Plantkillable
+      Supplementaries Squared (https://www.curseforge.com/projects/838411) by MehVahdJukaar, Plantkillable
+      Twigs (https://www.curseforge.com/projects/496913) by Ninni
+      Universal Sawmill (https://www.curseforge.com/projects/964817) by MehVahdJukaar
+      What Are You Voting For? 2023 (https://www.curseforge.com/projects/916844) by Alexander's Fun and Games
+      When Dungeons Arise (https://www.curseforge.com/projects/442508) by Aurelj, DiamondTown and Zephyrusj
+      YUNG's Better Dungeons (https://www.curseforge.com/projects/510089) by YUNGNICKYOUNG, Acarii
+      YUNG's Better End Island (https://www.curseforge.com/projects/901344) by YUNGNICKYOUNG, Acarii
+      YUNG's Better Jungle Temples (https://www.curseforge.com/projects/897669) by YUNGNICKYOUNG, Tera
+      YUNG's Better Mineshafts (https://www.curseforge.com/projects/389665) by YUNGNICKYOUNG
+      YUNG's Better Nether Fortresses (https://www.curseforge.com/projects/817651) by YUNGNICKYOUNG, Acarii
+      YUNG's Better Ocean Monuments (https://www.curseforge.com/projects/689238) by YUNGNICKYOUNG, Tera
+      YUNG's Better Strongholds (https://www.curseforge.com/projects/465575) by YUNGNICKYOUNG, Acarii
+      YUNG's Better Witch Huts (https://www.curseforge.com/projects/631401) by YUNGNICKYOUNG, Acarii
+      YUNG's Cave Biomes (https://www.curseforge.com/projects/1111586) by YUNGNICKYOUNG, HellionGames, Sully, LudoCrypt, Jasmine, K.jpg, Neko, Frenderman, Refresh Studios
+      lootintegrations_yungs mod (https://www.curseforge.com/projects/1012211) by Someaddon
+
+⭐ Correciones:
+
+ - Se recupero las texturas de Neko's Enchanted Books & Beautiful Enchanted Books
+ - Se corrigio el error de perdida de mapa y controles
+
+[Perrez dice: Los kiwis son aves territoriales, especialmente los machos, quienes establecen sus territorios antes de buscar pareja. Usan sus fuertes patas y garras afiladas para defender su territorio, que defienden a través de cantos y, si es necesario, peleas. Los territorios suelen incluir una madriguera subterránea, y las disputas fronterizas son comunes.]
